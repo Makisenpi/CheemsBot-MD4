@@ -55,7 +55,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['249902403587'] //ur owner number
-global.ownername = "NOBARA SAN🐼🍷 ٫" //ur owner name
+global.ownername = "NOBARA SAN🪶🍷 ٫" //ur owner name
 global.ytname = "YT: SAMAKO HARONO" //ur yt chanel name
 global.socialm = "GitHub: NOBARA SAN" //ur github or insta name
 global.location = "SUDAN, KHARTOM, Aizawl" //ur location
@@ -63,13 +63,13 @@ global.location = "SUDAN, KHARTOM, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['24902403587']
 global.ownertag = '249902403587' //ur tag number
-global.botname = 'BOT NOBARA SAN🐼🍷 ٫' //ur bot name
+global.botname = 'BOT NOBARA SAN🪶🍷 ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
-global.reactmoji = "🌚" //ur menu react emoji
-global.themeemoji = "🌞" //ur theme emoji
-global.packname = "ANN" //ur sticker watermark packname
+global.reactmoji = "🐦" //ur menu react emoji
+global.themeemoji = "🐧" //ur theme emoji
+global.packname = "ANN🐦" //ur sticker watermark packname
 global.author = "⍣249902403587⍣" //ur sticker watermark author
 
 //Bot theme media
@@ -102,7 +102,7 @@ global.ntilink = []
 //omther
 global.sessionName = 'session'
 global.antitags = true
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['''!','.'🦪'🐦'🦢'🐤'🦫'🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'تم يروحي ✓',
